@@ -1,7 +1,3 @@
-//To accect 2D arrays and find their product
-//To accept a number and check wether it is a goldbach no or not.(40)
-//Acccept a square matrix and interchange the elements of the upper triangle and lower triangle of the right diagonal.
-//Goldbach no.
 import java.util.*;
 class Goldbach
 {int n;
